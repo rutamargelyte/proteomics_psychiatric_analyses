@@ -1,11 +1,11 @@
 This repository includes code accompanying manuscript: 
 
-**Convergent proteogenomic evidence prioritises five causal proteins and new drug targets for major psychiatric disorders** 
+## **Convergent proteogenomic evidence prioritises five causal proteins and new drug targets for major psychiatric disorders** 
 
-**Authors:**  
+### **Authors:**  
 Ruta Margelyte and Christina Dardani
 
-**Contents:**
+### **Contents:**
 - 1_genetic_instrument_region_extraction_colocalisation.R
 - 2_MR.R
 - 3_bidirectional_MR.R
@@ -13,7 +13,7 @@ Ruta Margelyte and Christina Dardani
 - OMIM_extraction.R
 - tractability_extraction.R
 
-**Data availability:** 
+### **Data availability:** 
 - Data supporting the results of the present study are available from the UKB (https://www.ukbiobank.ac.uk/enable-your-research/apply-for-access) to researchers with UKB approval.
 - UKB blood pQTL data: http://ukb-ppp.gwas.eu
 - Brain pQTL data at Synapse portal: https://www.synapse.org/Synapse:syn23627957
@@ -30,7 +30,7 @@ Ruta Margelyte and Christina Dardani
 - IMPC annotations: https://www.mousephenotype.org/
 - OMIM annotations: https://www.omim.org/
 
-**Software:**
+### **Software:**
 - Cross-sectional and longitudinal cohort analyses used R (v4.4.2) packages stats (v4.4.2), survival (v4.4.2), lspline (1.0-0), and ashr (v2.2-63). 
 - Missing data imputation was done with R packages mice (v3.18.0) [84] and missForest (v1.5) [42]. 
 - Enrichment analyses were performed with R packages ReactomePA (v1.50.0) and clusterProfiler (v4.14.6) [85]. 
