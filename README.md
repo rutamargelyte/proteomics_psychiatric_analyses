@@ -9,21 +9,21 @@ Ruta Margelyte and Christina Dardani
 
 
 **Data availability:** 
-Data supporting the results of the present study are available from the UKB (https://www.ukbiobank.ac.uk/enable-your-research/apply-for-access) to researchers with UKB approval.  
-UKB blood pQTL data: http://ukb-ppp.gwas.eu 
-Brain pQTL data at Synapse portal: https://www.synapse.org/Synapse:syn23627957 
-Blood eQTL data: https://www.eqtlgen.org/phase1.html 
-Brain cortex eQTL data at MetaBrain platform: https://www.metabrain.nl/ 
-GWAS data on anxiety, bipolar, and schizophrenia: https://pgc.unc.edu/for-researchers/download-results/ 
-GWAS data on depression: https://ipsych.dk/en/research/downloads/ 
-ExWAS data (psychiatric disorders): https://www.ebi.ac.uk/gwas/publications/34662886 
-Therapeutic tractability and clinical trials data at the Open Targets Platform: https://platform.opentargets.org/ 
-GO annotations: https://geneontology.org/docs/go-annotations/ 
-Tissue expression at The Human Protein Atlas: https://www.proteinatlas.org/ 
-KEGG pathways: https://www.genome.jp/kegg/ 
-REACTOME pathways: https://reactome.org/ 
-IMPC annotations: https://www.mousephenotype.org/ 
-OMIM annotations: https://www.omim.org/ 
+Data supporting the results of the present study are available from the UKB (https://www.ukbiobank.ac.uk/enable-your-research/apply-for-access) to researchers with UKB approval.;
+UKB blood pQTL data: http://ukb-ppp.gwas.eu ;
+Brain pQTL data at Synapse portal: https://www.synapse.org/Synapse:syn23627957 ;
+Blood eQTL data: https://www.eqtlgen.org/phase1.html ;
+Brain cortex eQTL data at MetaBrain platform: https://www.metabrain.nl/ ;
+GWAS data on anxiety, bipolar, and schizophrenia: https://pgc.unc.edu/for-researchers/download-results/ ;
+GWAS data on depression: https://ipsych.dk/en/research/downloads/ ;
+ExWAS data (psychiatric disorders): https://www.ebi.ac.uk/gwas/publications/34662886 ;
+Therapeutic tractability and clinical trials data at the Open Targets Platform: https://platform.opentargets.org/ ;
+GO annotations: https://geneontology.org/docs/go-annotations/ ;
+Tissue expression at The Human Protein Atlas: https://www.proteinatlas.org/ ;
+KEGG pathways: https://www.genome.jp/kegg/ ;
+REACTOME pathways: https://reactome.org/ ;
+IMPC annotations: https://www.mousephenotype.org/ ;
+OMIM annotations: https://www.omim.org/ ;
 
 **Software:**
 Cross-sectional and longitudinal cohort analyses used R (v4.4.2) packages stats (v4.4.2), survival (v4.4.2), lspline (1.0-0), and ashr (v2.2-63). 
