@@ -6,12 +6,15 @@ This repository includes code accompanying manuscript:
 Ruta Margelyte and Christina Dardani
 
 ### **Contents:**
-- 1_genetic_instrument_region_extraction_colocalisation.R
-- 2_MR.R
-- 3_bidirectional_MR.R
-- IPMC_extraction.R
-- OMIM_extraction.R
-- tractability_extraction.R
+- 1_1_prot_covar_imputation.R
+- 1_2_xs_longit_analyses.R
+- 1_3_react_kegg_enrichment.R
+- 2_1_genetic_instrument_region_extraction_colocalisation.R
+- 2_2_MR.R
+- 2_3_bidirectional_MR.R
+- 3_1_IPMC_extraction.R
+- 3_2_OMIM_extraction.R
+- 3_3_tractability_extraction.R
 
 ### **Data availability:** 
 - Data supporting the results of the present study are available from the UKB (https://www.ukbiobank.ac.uk/enable-your-research/apply-for-access) to researchers with UKB approval.
