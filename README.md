@@ -9,6 +9,7 @@ Ruta Margelyte and Christina Dardani
 
 
 **Data availability:** 
+
 Data supporting the results of the present study are available from the UKB (https://www.ukbiobank.ac.uk/enable-your-research/apply-for-access) to researchers with UKB approval.
 
 UKB blood pQTL data: http://ukb-ppp.gwas.eu
