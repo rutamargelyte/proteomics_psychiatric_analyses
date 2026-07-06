@@ -6,15 +6,15 @@ This repository includes code accompanying manuscript:
 Ruta Margelyte and Christina Dardani
 
 ### **Contents:**
-- 1_1_prot_covar_imputation.R [link](1_1_prot_covar_imputation.R)
-- 1_2_xs_longit_analyses.R [link](1_2_xs_longit_analyses.R)
-- 1_3_react_kegg_enrichment.R [link](1_3_react_kegg_enrichment.R)
-- 2_1_genetic_instrument_region_extraction_colocalisation.R [link](2_1_genetic_instrument_region_extraction_colocalisation.R)
-- 2_2_MR.R [link](2_2_MR.R)
-- 2_3_bidirectional_MR.R [link](2_3_bidirectional_MR.R)
-- 3_1_IPMC_extraction.R [link](3_1_IPMC_extraction.R)
-- 3_2_OMIM_extraction.R [link](3_2_OMIM_extraction.R)
-- 3_3_tractability_extraction.R [link](3_3_tractability_extraction.R)
+- 1a_ukb_protein_covariate_imputation.R [link](1a_ukb_protein_covariate_imputation.R)
+- 1b_ukb_crosssectional_longitudinal_analyses.R [link](1b_ukb_crosssectional_longitudinal_analyses.R)
+- 1c_reactome_kegg_enrichment.R [link](1c_reactome_kegg_enrichment.R)
+- 2a_genetic_instrument_region_extraction_colocalisation.R [link](2a_genetic_instrument_region_extraction_colocalisation.R)
+- 2b_MR.R [link](2b_MR.R)
+- 2c_bidirectional_MR.R [link](2c_bidirectional_MR.R)
+- 3a_IPMC_extraction.R [link](3a_IPMC_extraction.R)
+- 3b_OMIM_extraction.R [link](3b_OMIM_extraction.R)
+- 3c_tractability_extraction.R [link](3c_tractability_extraction.R)
 
 ### **Data availability:** 
 - Data supporting the results of the present study are available from the UKB (https://www.ukbiobank.ac.uk/enable-your-research/apply-for-access) to researchers with UKB approval.
