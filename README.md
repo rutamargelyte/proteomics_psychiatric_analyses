@@ -35,10 +35,10 @@ Ruta Margelyte and Christina Dardani
 
 ### **Software:**
 - Cross-sectional and longitudinal cohort analyses used R (v4.4.2) packages stats (v4.4.2), survival (v4.4.2), lspline (1.0-0), and ashr (v2.2-63). 
-- Missing data imputation was done with R packages mice (v3.18.0) [84] and missForest (v1.5) [42]. 
-- Enrichment analyses were performed with R packages ReactomePA (v1.50.0) and clusterProfiler (v4.14.6) [85]. 
-- Genetic analyses: Blood plasma pQTL data and blood cell derived eQTL data were extracted and processed using R package gwasvcf (v1.0) (https://github.com/MRCIEU/gwasvcf) [86]. The summary data from MetaBrain were lifted over from GRCh38 to GRCh37 using the UCSC liftover tool to match the build of the rest of the data [87]. Two-sample MR, Steiger filtering, and bi-directional MR analyses were conducted using functions from R packages TwoSampleMR (v0.5.6) (https://github.com/MRCIEU/TwoSampleMR) and mrpipeline (v1.0) (https://github.com/jwr-git/mrpipeline) [88]. The PWCoCo algorithm was implemented using the Pair-Wise Conditional analysis and Colocalisation analysis package v1.0 (https://github.com/jwr-git/pwcoco) [67]. 
-- Data on the therapeutic tractability, known drugs, and clinical trials were extracted using functions from R package otargen (v2.0.1) [89]. 
+- Missing data imputation was done with R packages mice (v3.18.0) and missForest (v1.5). 
+- Enrichment analyses were performed with R packages ReactomePA (v1.50.0) and clusterProfiler (v4.14.6). 
+- Genetic analyses: Blood plasma pQTL data and blood cell derived eQTL data were extracted and processed using R package gwasvcf (v1.0) (https://github.com/MRCIEU/gwasvcf). The summary data from MetaBrain were lifted over from GRCh38 to GRCh37 using the UCSC liftover tool to match the build of the rest of the data. Two-sample MR, Steiger filtering, and bi-directional MR analyses were conducted using functions from R packages TwoSampleMR (v0.5.6) (https://github.com/MRCIEU/TwoSampleMR) and mrpipeline (v1.0) (https://github.com/jwr-git/mrpipeline). The PWCoCo algorithm was implemented using the Pair-Wise Conditional analysis and Colocalisation analysis package v1.0 (https://github.com/jwr-git/pwcoco). 
+- Data on the therapeutic tractability, known drugs, and clinical trials were extracted using functions from R package otargen (v2.0.1). 
 - Gene Ontology (GO) and OMIM annotations were retrieved using R package biomaRt (v2.62.1).  
 - Mouse knockout phenotype data were obtained from the IMPC database via its public API. Human-to-mouse orthologs were mapped using R package homologene (v1.48.6).  
 - Data was visualised using R package ggplot2 (v4.0.1). 
