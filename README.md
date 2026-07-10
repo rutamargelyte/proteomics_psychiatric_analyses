@@ -1,6 +1,6 @@
 This repository includes code accompanying manuscript: 
 
-## **Convergent proteogenomic evidence prioritises five causal proteins as new drug targets for major psychiatric disorders** 
+## **Convergent proteogenomic evidence prioritises five causal proteins and new drug targets for major psychiatric disorders** 
 
 ### **Authors:**  
 Ruta Margelyte and Christina Dardani
